@@ -5,5 +5,5 @@
 
 Inspired by [xiaoye97](https://github.com/xiaoye97) and [Mod development tutorial](https://www.bilibili.com/read/cv8997376)
 
-* Requirements
+# Requirements
   * https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8
