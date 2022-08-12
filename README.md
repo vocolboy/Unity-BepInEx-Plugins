@@ -7,7 +7,7 @@
     * 預設數字為每等級 * 2
   * MoreBossLoot Boss掉落物增加 ( 服務器每多一人 Boss 多噴一倍 ) ( 開伺服器的裝就好 )
 * PlateUp (20220811)
-  * 每日獲得更多藍圖 5 => 10 
+  * MoreBlueprint 每日獲得更多藍圖 5 => 10 ( 開房的裝就好 )
 
 Inspired by [xiaoye97](https://github.com/xiaoye97) and [Mod development tutorial](https://www.bilibili.com/read/cv8997376)
 
